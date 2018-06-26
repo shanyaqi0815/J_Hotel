@@ -718,7 +718,9 @@ p{
 #allmap{
 	width: 96%;height: 400px;margin: 20px auto 0;
 }
-
+#block{
+	width: 100%;height: 59px;
+}
 #map-policy{
 	border: 1px solid #345a77;
     font-size: 14px;
