@@ -739,10 +739,10 @@ p{
 }
 
 #map-policy tr td{
-	line-height: 40px;
+	line-height: 20px;
     color: #CCC;
     text-align: center;
-    font-size: 0.9em;
+    font-size: 0.6em!important;
 }
 #map-policy .table_td_line td:nth-child(1){
 	width: 100px;
