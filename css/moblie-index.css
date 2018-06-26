@@ -742,10 +742,10 @@ p{
 	line-height: 20px;
     color: #CCC;
     text-align: center;
-    font-size: 0.6em;
+    font-size: 0.9em;
 }
 #map-policy tr td strong{
-	font-size: 0.6em;
+	font-size: 0.9em;
 }
 #map-policy .table_td_line td:nth-child(1){
 	width: 100px;
