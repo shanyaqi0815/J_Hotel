@@ -909,7 +909,63 @@ p{
 
 
 
+/*金门宴会厅*/
+#rigth-conference-banquet{
+	width: 100%;height: auto;
+}
+#rigth-conference-banquet h1{
+	width: 100%;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 1.5em;
+    color: #723a0d;
+    font-weight: 100;
+}
 
+#rigth-conference-banquet .rigth-intro-box{
+	width: 96%;
+    margin: auto;
+    height: auto;
+    padding: 2%;
+}
+#rigth-conference-banquet img{
+	width: 100%;
+}
+#rigth-conference-banquet #table{
+	display: none;
+}
+#rigth-conference-banquet #table-two{
+	width: 100%;border: 1px solid #a29a49;
+}
+#rigth-conference-banquet #table-two span{
+	color: red;
+}
+#rigth-conference-banquet #table-two tr th{
+	width: 30%;padding: 2px 15px;font-size: 14px;
+	background: #cdb869;border-right: 1px solid #a29a49;
+}
+#rigth-conference-banquet #table-two tr td{
+	text-align: center;padding:   10px;
+	font-size: 14px;
+	background-color: #eed36f;
+}
+
+#remark{
+	font-size: 14px;color: #5c4b09;
+}
+#remark h4,#remark p,#remark ul{
+	margin-bottom: 20px;
+}
+#remark ul li{
+	line-height: 25px;
+}
+#remark span{
+	color: red;
+}
+#remark ol li{
+	list-style:decimal  ; 
+}
 
 
 
